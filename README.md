@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Alexsander Sarmento :rocket:</h1>
 
-<!--
-**alexsandersarmento/alexsandersarmento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/> :arrow_right: 24 anos;
+<br/> :arrow_right: Estudante de Análise e Desenvolvimento de Sistemas;
+<br/> :arrow_right: Em busca de uma oportunidades para aprimorar meus conhecimentos.
 
-Here are some ideas to get you started:
+<h3> :pushpin: Habilidades Técnicas</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br/> :heavy_check_mark: JavaScript, TypeScript, Java;
+<br/> :heavy_check_mark: ReactJS, React Native, Node.js;
+<br/> :heavy_check_mark:  Spring Boot;
+<br/> :heavy_check_mark:  HTML, CSS, Bootstrap;
+<br/> :heavy_check_mark:  MySQL;
+<br/> :heavy_check_mark:  Git, GitHub.
+
+
+<h3>:memo: Contato: </h3>
+
+![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alexsander.br18@gmail.com)
+![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexsander-sarmento-a58b18174/)
