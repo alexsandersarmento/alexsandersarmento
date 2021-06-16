@@ -2,7 +2,6 @@
 
 <br/> :arrow_right: 24 anos;
 <br/> :arrow_right: Estudante de Análise e Desenvolvimento de Sistemas;
-<br/> :arrow_right: Em busca de uma oportunidades para aprimorar meus conhecimentos.
 
 <h3> :pushpin: Habilidades Técnicas</h3>
 
