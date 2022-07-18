@@ -1,7 +1,6 @@
 <h1>Alexsander Sarmento :rocket:</h1>
 
-<br/> :arrow_right: 24 anos;
-<br/> :arrow_right: Estudante de Análise e Desenvolvimento de Sistemas;
+<br/> :arrow_right: 25 anos;
 
 <h3> :pushpin: Habilidades Técnicas</h3>
 
