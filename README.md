@@ -1,6 +1,6 @@
 <h1>Alexsander Sarmento :rocket:</h1>
 
-<br/> :arrow_right: 25 anos;
+<br/> :arrow_right: 26 anos;
 <br/> :arrow_right: Dev fullstack;
 
 <h3> :pushpin: Habilidades Técnicas</h3>
