@@ -5,7 +5,7 @@
 
 <h3> :pushpin: Habilidades Técnicas</h3>
 
-<br/> :heavy_check_mark: JavaScript, TypeScript, Java;
+:heavy_check_mark: JavaScript, TypeScript, Java;
 <br/> :heavy_check_mark: ReactJS, React Native, Node.js, Spring Boot;
 <br/> :heavy_check_mark:  HTML, CSS, Bootstrap;
 <br/> :heavy_check_mark:  MySQL;
