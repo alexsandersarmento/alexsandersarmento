@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 💻 Atualmente estou trabalhando como desenvolvedor na Plathanus.
+- 💻 Atualmente estou trabalhando como desenvolvedor na <a href="https://plathanus.com.br/" target="_blank">Plathanus</a>.
 - 📫 Meu email: alexsander.br18@gmail.com
 
 ### ⚡ Tecnologias:
