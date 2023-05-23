@@ -1,38 +1,38 @@
 <h1 align='center'>
-  Olá, sou o Alexsander Sarmento!
+  Hello, I'm Alexsander Sarmento!
   <br/>
-  Seja bem vindo :)
+  Welcome :)
 </h1>
 
 <p align='center'>
-  Desenvolvedor Full stack
+  Software Engineer Mid-Level
 </p>
 
-### 🚀 Sobre mim:
+### 🚀 About me:
 
 <p>
   <em>
-    Tenho 26 anos, sou de Santa Catarina e estou buscando aprender mais a cada dia.
+      I'm a passionate Software Engineer with a thirst for knowledge and growth. I'm 27 years old and originally from Santa Catarina, Brazil. I love exploring new technologies and solving complex problems. My goal is to make a positive impact through my work and contribute to innovative projects.
   </em>
 </p>
 
-- 💻 Atualmente estou trabalhando como desenvolvedor na <a href="https://plathanus.com.br/" target="_blank">Plathanus</a>.
-- 📫 Meu email: alexsander.br18@gmail.com
+- 💻 Currently, I'm working as a Software Engineer at <a href="https://plathanus.com.br/" target="_blank">Plathanus</a>.
+- 📫 My email: alexsander.br18@gmail.com
 
-### ⚡ Tecnologias:
+### ⚡ Technologies:
 
-Estas são algumas das tecnologias e ferramentas que trabalho:
+Here are some of the technologies and tools I work with:
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,styledcomponents,materialui,mysql,postgres,graphql,vscode,github
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,firebase,redux,styledcomponents,materialui,mysql,postgres,graphql,vscode,github
 )](https://skillicons.dev)
 
-### 📈 Minhas Estatísticas
+### 📈 My Statistics
 
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
+| My Statistics                                                                                                                                                                | Top Languages                                                                                                                                                                            |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=alexsandersarmento&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alexsandersarmento&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
-💬 Quer me conhecer?
+💬 Want to connect?
 
 <div>
   <a href="https://www.linkedin.com/in/alexsander-sarmento-a58b18174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
