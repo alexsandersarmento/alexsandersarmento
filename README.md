@@ -23,7 +23,7 @@
 
 Here are some of the technologies and tools I work with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,firebase,redux,styledcomponents,materialui,mysql,postgres,graphql,vscode,github
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,flutter,html,css,firebase,styledcomponents,materialui,mysql,postgres
 )](https://skillicons.dev)
 
 ### 📈 My Statistics
