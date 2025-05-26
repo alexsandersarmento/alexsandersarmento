@@ -12,7 +12,7 @@
 
 <p>
   <em>
-      I'm a passionate Software Engineer with a thirst for knowledge and growth. I'm 28 years old and originally from Santa Catarina, Brazil. I love exploring new technologies and solving complex problems. My goal is to make a positive impact through my work and contribute to innovative projects.
+      I'm a passionate Software Engineer with a thirst for knowledge and growth. I'm 29 years old and originally from Santa Catarina, Brazil. I love exploring new technologies and solving complex problems. My goal is to make a positive impact through my work and contribute to innovative projects.
   </em>
 </p>
 
