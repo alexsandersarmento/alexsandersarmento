@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 💻 Currently, I'm working as a Software Engineer at <a href="https://plathanus.com.br/" target="_blank">Plathanus</a>.
+- 💻 Currently, I'm working as a Software Engineer at <a href="https://www.useclint.com/" target="_blank">Clint</a>.
 - 📫 My email: alexsander.br18@gmail.com
 
 ### ⚡ Technologies:
